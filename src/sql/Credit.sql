@@ -1,0 +1,1 @@
+select sum(credit) as "credit" from curriculum;
